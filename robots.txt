@@ -1,0 +1,6 @@
+# Allow all user agents
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: http://www.kafirunband.com/sitemap.xml

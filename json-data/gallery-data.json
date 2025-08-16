@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-logo-image-guitarist-members.jpg",
+            "altText": "KAFIRUN band, 2024 live performance promotional photo of guitarist Hanephi.",
+            "dataTarget": "#row1-modal1",
+            "modalContent": {
+                "modalId": "row1-modal1",
+                "ariaLabel": "KAFIRUN band, 2024 live performance promotional photo of guitarist Hanephi.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-logo-image-guitarist-members.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hypnocrotizer-bassist.jpg",
+            "altText": "KAFIRUN band, 2024 live performance promotional photo of bassist Hypnocrotizer.",
+            "dataTarget": "#row1-modal2",
+            "modalContent": {
+                "modalId": "row1-modal2",
+                "ariaLabel": "KAFIRUN band, 2024 live performance promotional photo of bassist Hypnocrotizer.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hypnocrotizer-bassist.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-luzifaust-logo-band-member.jpg",
+            "altText": "KAFIRUN band, 2024 live performance promotional photo of vocalist Luzifaust.",
+            "dataTarget": "#row1-modal3",
+            "modalContent": {
+                "modalId": "row1-modal3",
+                "ariaLabel": "kKAFIRUN band, 2024 live performance promotional photo of vocalist Luzifaust.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-luzifaust-logo-band-member.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-logo-image.jpg",
+            "altText": "KAFIRUN band, 2024 live performance promotional photo of guitarist Hanephi with Solar V guitar.",
+            "dataTarget": "#row1-modal4",
+            "modalContent": {
+                "modalId": "row1-modal4",
+                "ariaLabel": "KAFIRUN band, 2024 live performance promotional photo of guitarist Hanephi with Solar V guitar.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-logo-image.jpg",
+                "class": "modal-cst-max-width"
+            }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi.jpg",
+            "altText": "KAFIRUN band, guitarist songwriter Hanephi performing with his Solar V guitar. Kafirun band on tour July 2024. Live performance.",
+            "dataTarget": "#row2-modal1",
+            "modalContent": {
+                "modalId": "row2-modal1",
+                "ariaLabel": "KAFIRUN band, guitarist songwriter Hanephi performing with his Solar V guitar. Kafirun band on tour July 2024. Live performance.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hypnocrotizer.jpg",
+            "altText": "KAFIRUN band, bassist Hypnocrotizer performing with his ESP bass. Kafirun band on tour July 2024. Live performance.",
+            "dataTarget": "#row2-modal2",
+            "modalContent": {
+                "modalId": "row2-modal2",
+                "ariaLabel": "KAFIRUN band, bassist Hypnocrotizer performing with his ESP bass. Kafirun band on tour July 2024. Live performance.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hypnocrotizer.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-luzifaust.jpg",
+            "altText": "KAFIRUN band, vocalist Luzifaust. Kafirun band on tour July 2024. Live performance.",
+            "dataTarget": "#row2-modal3",
+            "modalContent": {
+                "modalId": "row2-modal3",
+                "ariaLabel": "KAFIRUN band, vocalist Luzifaust. Kafirun band on tour July 2024. Live performance.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-luzifaust.jpg",
+                "class": "modal-cst-max-width"
+            }
+        },
+        {
+            "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-01.jpg",
+            "altText": "KAFIRUN band, guitarist and the founder Hanephi. Kafirun band on tour July 2024. Live performance.",
+            "dataTarget": "#row2-modal4",
+            "modalContent": {
+                "modalId": "row2-modal4",
+                "ariaLabel": "KAFIRUN band, guitarist and the founder Hanephi. Kafirun band on tour July 2024. Live performance.",
+                "imgSrc": "images/kafirun-band-live-performance-tour-2024-hanephi-01.jpg",
+                "class": "modal-cst-max-width"
+            }
+        }
+      ]
+    }
+  ]
+}

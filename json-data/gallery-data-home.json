@@ -1,0 +1,78 @@
+{
+    "rows": [
+        {
+            "columns": [
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-1.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 1",
+                    "dataTarget": "#row1-modal1",
+                    "modalContent": {
+                        "modalId": "row1-modal1",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 1",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-1.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                },
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-2.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 2",
+                    "dataTarget": "#row1-modal2",
+                    "modalContent": {
+                        "modalId": "row1-modal2",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 2",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-2.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                },
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-3.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 3",
+                    "dataTarget": "#row1-modal3",
+                    "modalContent": {
+                        "modalId": "row1-modal3",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 3",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-3.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                }
+            ]
+        },
+        {
+            "columns": [
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-4.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 4",
+                    "dataTarget": "#row2-modal1",
+                    "modalContent": {
+                        "modalId": "row2-modal1",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 4",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-4.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                },
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-5.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 5",
+                    "dataTarget": "#row2-modal2",
+                    "modalContent": {
+                        "modalId": "row2-modal2",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 5",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-5.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                },
+                {
+                    "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-6.jpg",
+                    "altText": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 6",
+                    "dataTarget": "#row2-modal3",
+                    "modalContent": {
+                        "modalId": "row2-modal3",
+                        "ariaLabel": "KAFIRUN - Glorification of Holy Death EP, Custom Hand-Painted Limited Edition - Image 6",
+                        "imgSrc": "images/KAFIRUN-band-Glorification-of-holy-death-EP-custom-hand-painted-limited-edition-image-6.jpg",
+                        "class": "modal-cst-max-width"
+                    }
+                }
+            ]
+        }
+    ]
+}
